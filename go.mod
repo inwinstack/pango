@@ -1,1 +1,1 @@
-module github.com/PaloAltoNetworks/pango
+module github.com/inwinstack/pango
