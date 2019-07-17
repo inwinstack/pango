@@ -3,7 +3,7 @@ package edl
 import (
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // Constants for Entry.Type field.  Only TypeIp is valid for PAN-OS 7.0 and

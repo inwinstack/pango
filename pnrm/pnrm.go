@@ -5,15 +5,15 @@ package pnrm
 
 
 import (
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 
-    "github.com/PaloAltoNetworks/pango/pnrm/dg"
-    "github.com/PaloAltoNetworks/pango/pnrm/plugins/gcp/account"
-    "github.com/PaloAltoNetworks/pango/pnrm/plugins/gcp/gke/cluster"
-    "github.com/PaloAltoNetworks/pango/pnrm/plugins/gcp/gke/cluster/group"
-    "github.com/PaloAltoNetworks/pango/pnrm/template"
-    "github.com/PaloAltoNetworks/pango/pnrm/template/stack"
-    "github.com/PaloAltoNetworks/pango/pnrm/template/variable"
+    "github.com/inwinstack/pango/pnrm/dg"
+    "github.com/inwinstack/pango/pnrm/plugins/gcp/account"
+    "github.com/inwinstack/pango/pnrm/plugins/gcp/gke/cluster"
+    "github.com/inwinstack/pango/pnrm/plugins/gcp/gke/cluster/group"
+    "github.com/inwinstack/pango/pnrm/template"
+    "github.com/inwinstack/pango/pnrm/template/stack"
+    "github.com/inwinstack/pango/pnrm/template/variable"
 )
 
 

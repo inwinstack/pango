@@ -4,8 +4,8 @@ import (
     "fmt"
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/version"
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/version"
+    "github.com/inwinstack/pango/util"
 )
 
 

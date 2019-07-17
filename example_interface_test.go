@@ -3,8 +3,8 @@ package pango_test
 import (
     "log"
 
-    "github.com/PaloAltoNetworks/pango"
-    "github.com/PaloAltoNetworks/pango/netw/interface/eth"
+    "github.com/inwinstack/pango"
+    "github.com/inwinstack/pango/netw/interface/eth"
 )
 
 // ExampleCreateInterface demonstrates how to use pango to create an interface

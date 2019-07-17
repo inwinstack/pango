@@ -4,8 +4,8 @@ import (
     "fmt"
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
-    "github.com/PaloAltoNetworks/pango/version"
+    "github.com/inwinstack/pango/util"
+    "github.com/inwinstack/pango/version"
 )
 
 // Template is the client.Panorama.Template namespace.

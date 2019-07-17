@@ -1,7 +1,7 @@
 package header
 
 import (
-    "github.com/PaloAltoNetworks/pango/version"
+    "github.com/inwinstack/pango/version"
 )
 
 type tc struct {

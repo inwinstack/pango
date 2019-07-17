@@ -3,7 +3,7 @@ package telemetry
 import (
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // Settings is a normalized, version independent representation of telemetry

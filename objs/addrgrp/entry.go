@@ -3,7 +3,7 @@ package addrgrp
 import (
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 

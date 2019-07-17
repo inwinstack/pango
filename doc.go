@@ -10,7 +10,7 @@ initialize the connection:
     
     import (
         "log"
-        "github.com/PaloAltoNetworks/pango"
+        "github.com/inwinstack/pango"
     )
     
     func main() {

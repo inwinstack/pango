@@ -4,7 +4,7 @@ import (
     "fmt"
     "testing"
 
-    "github.com/PaloAltoNetworks/pango/testdata"
+    "github.com/inwinstack/pango/testdata"
 )
 
 

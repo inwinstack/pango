@@ -4,7 +4,7 @@ import (
     "fmt"
     "encoding/json"
 
-    "github.com/PaloAltoNetworks/pango"
+    "github.com/inwinstack/pango"
 )
 
 // About is a struct to hold information about the given PAN-OS device.

@@ -4,8 +4,8 @@ import (
     "testing"
     "reflect"
 
-    "github.com/PaloAltoNetworks/pango/testdata"
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/testdata"
+    "github.com/inwinstack/pango/util"
 )
 
 

@@ -2,22 +2,22 @@ package objs
 
 
 import (
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 
-    "github.com/PaloAltoNetworks/pango/objs/addr"
-    "github.com/PaloAltoNetworks/pango/objs/addrgrp"
-    "github.com/PaloAltoNetworks/pango/objs/app"
-    appgrp "github.com/PaloAltoNetworks/pango/objs/app/group"
-    "github.com/PaloAltoNetworks/pango/objs/app/signature"
-    "github.com/PaloAltoNetworks/pango/objs/app/signature/andcond"
-    "github.com/PaloAltoNetworks/pango/objs/app/signature/orcond"
-    "github.com/PaloAltoNetworks/pango/objs/edl"
-    "github.com/PaloAltoNetworks/pango/objs/profile/logfwd"
-    "github.com/PaloAltoNetworks/pango/objs/profile/logfwd/matchlist"
-    "github.com/PaloAltoNetworks/pango/objs/profile/logfwd/matchlist/action"
-    "github.com/PaloAltoNetworks/pango/objs/srvc"
-    "github.com/PaloAltoNetworks/pango/objs/srvcgrp"
-    "github.com/PaloAltoNetworks/pango/objs/tags"
+    "github.com/inwinstack/pango/objs/addr"
+    "github.com/inwinstack/pango/objs/addrgrp"
+    "github.com/inwinstack/pango/objs/app"
+    appgrp "github.com/inwinstack/pango/objs/app/group"
+    "github.com/inwinstack/pango/objs/app/signature"
+    "github.com/inwinstack/pango/objs/app/signature/andcond"
+    "github.com/inwinstack/pango/objs/app/signature/orcond"
+    "github.com/inwinstack/pango/objs/edl"
+    "github.com/inwinstack/pango/objs/profile/logfwd"
+    "github.com/inwinstack/pango/objs/profile/logfwd/matchlist"
+    "github.com/inwinstack/pango/objs/profile/logfwd/matchlist/action"
+    "github.com/inwinstack/pango/objs/srvc"
+    "github.com/inwinstack/pango/objs/srvcgrp"
+    "github.com/inwinstack/pango/objs/tags"
 )
 
 

@@ -4,8 +4,8 @@ import (
     "strings"
     "testing"
 
-    "github.com/PaloAltoNetworks/pango/testdata"
-    "github.com/PaloAltoNetworks/pango/version"
+    "github.com/inwinstack/pango/testdata"
+    "github.com/inwinstack/pango/version"
 )
 
 

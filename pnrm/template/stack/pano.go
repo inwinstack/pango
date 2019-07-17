@@ -4,7 +4,7 @@ import (
     "fmt"
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // Stack is the client.Panorama.TemplateStack namespace.

@@ -10,7 +10,7 @@ import (
     "regexp"
     "strings"
 
-    "github.com/PaloAltoNetworks/pango/version"
+    "github.com/inwinstack/pango/version"
 )
 
 // Retriever is a type that is intended to act as a stand-in for using

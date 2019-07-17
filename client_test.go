@@ -7,7 +7,7 @@ import (
     "strings"
     "testing"
 
-    "github.com/PaloAltoNetworks/pango/testdata"
+    "github.com/inwinstack/pango/testdata"
 )
 
 

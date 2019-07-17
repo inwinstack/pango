@@ -1,11 +1,11 @@
 package poli
 
 import (
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 
-    "github.com/PaloAltoNetworks/pango/poli/nat"
-    "github.com/PaloAltoNetworks/pango/poli/pbf"
-    "github.com/PaloAltoNetworks/pango/poli/security"
+    "github.com/inwinstack/pango/poli/nat"
+    "github.com/inwinstack/pango/poli/pbf"
+    "github.com/inwinstack/pango/poli/security"
 )
 
 

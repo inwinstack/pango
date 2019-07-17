@@ -5,7 +5,7 @@ import (
     "encoding/xml"
     "strings"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // FwSecurity is the client.Policies.Security namespace.

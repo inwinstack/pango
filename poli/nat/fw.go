@@ -5,8 +5,8 @@ import (
     "encoding/xml"
     "strings"
 
-    "github.com/PaloAltoNetworks/pango/util"
-    "github.com/PaloAltoNetworks/pango/version"
+    "github.com/inwinstack/pango/util"
+    "github.com/inwinstack/pango/version"
 )
 
 // FwNat is the client.Policies.Nat namespace.

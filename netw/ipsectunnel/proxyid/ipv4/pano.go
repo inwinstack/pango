@@ -4,7 +4,7 @@ import (
     "fmt"
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // PanoIpv4 is a namespace struct, included as part of pango.Firewall.

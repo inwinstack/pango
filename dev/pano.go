@@ -1,19 +1,19 @@
 package dev
 
 import (
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 
-    "github.com/PaloAltoNetworks/pango/dev/profile/email"
-    emailsrv "github.com/PaloAltoNetworks/pango/dev/profile/email/server"
-    "github.com/PaloAltoNetworks/pango/dev/profile/http"
-    "github.com/PaloAltoNetworks/pango/dev/profile/http/header"
-    "github.com/PaloAltoNetworks/pango/dev/profile/http/param"
-    httpsrv "github.com/PaloAltoNetworks/pango/dev/profile/http/server"
-    "github.com/PaloAltoNetworks/pango/dev/profile/snmp"
-    "github.com/PaloAltoNetworks/pango/dev/profile/snmp/v2c"
-    "github.com/PaloAltoNetworks/pango/dev/profile/snmp/v3"
-    "github.com/PaloAltoNetworks/pango/dev/profile/syslog"
-    syslogsrv "github.com/PaloAltoNetworks/pango/dev/profile/syslog/server"
+    "github.com/inwinstack/pango/dev/profile/email"
+    emailsrv "github.com/inwinstack/pango/dev/profile/email/server"
+    "github.com/inwinstack/pango/dev/profile/http"
+    "github.com/inwinstack/pango/dev/profile/http/header"
+    "github.com/inwinstack/pango/dev/profile/http/param"
+    httpsrv "github.com/inwinstack/pango/dev/profile/http/server"
+    "github.com/inwinstack/pango/dev/profile/snmp"
+    "github.com/inwinstack/pango/dev/profile/snmp/v2c"
+    "github.com/inwinstack/pango/dev/profile/snmp/v3"
+    "github.com/inwinstack/pango/dev/profile/syslog"
+    syslogsrv "github.com/inwinstack/pango/dev/profile/syslog/server"
 )
 
 

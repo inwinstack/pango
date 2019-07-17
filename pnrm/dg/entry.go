@@ -3,7 +3,7 @@ package dg
 import (
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 )
 
 // Entry is a normalized, version independent representation of a device group.

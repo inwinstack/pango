@@ -3,16 +3,16 @@ package pango
 import (
     "encoding/xml"
 
-    "github.com/PaloAltoNetworks/pango/util"
+    "github.com/inwinstack/pango/util"
 
     // Various namespace imports.
-    "github.com/PaloAltoNetworks/pango/dev"
-    "github.com/PaloAltoNetworks/pango/objs"
-    "github.com/PaloAltoNetworks/pango/poli"
-    "github.com/PaloAltoNetworks/pango/netw"
-    "github.com/PaloAltoNetworks/pango/pnrm"
-    "github.com/PaloAltoNetworks/pango/licen"
-    "github.com/PaloAltoNetworks/pango/userid"
+    "github.com/inwinstack/pango/dev"
+    "github.com/inwinstack/pango/objs"
+    "github.com/inwinstack/pango/poli"
+    "github.com/inwinstack/pango/netw"
+    "github.com/inwinstack/pango/pnrm"
+    "github.com/inwinstack/pango/licen"
+    "github.com/inwinstack/pango/userid"
 )
 
 
