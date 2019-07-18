@@ -434,13 +434,7 @@ func (c *Client) Commit(desc string, admins []string, dan, pao, force, sync bool
         if !pao {
             req.Partial.Pao = "excluded"
         }
-	if len(admins) > 0 {
-	    req.Partial.Admin = &util.MemberType{}
-	    for _, admin := range admins {
-		m := util.Member{Value: admin}
-	        req.Partial.Admin.Members = append(req.Partial.Admin.Members, m)
-	    }
-	}
+	req.Partial.Admin = util.StrToMem(admins)
     }
     if force {
         req.Force = ""
