@@ -243,7 +243,9 @@ func (c *MockClient) GetHighAvailabilityStatus() (*util.HighAvailability, error)
 	ha := &util.HighAvailability{
 		Enable: "yes",
 		Group: util.HighAvailabilityGroup{
-			Mode: "Active-Passive",
+			Mode:               "Active-Passive",
+			RunningSync:        "synchronized",
+			RunningSyncEnabled: "yes",
 			Local: util.HighAvailabilityInfo{
 				State:     "active",
 				StateSync: "Complete",

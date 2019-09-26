@@ -455,9 +455,11 @@ type HighAvailabilityInfo struct {
 }
 
 type HighAvailabilityGroup struct {
-	Mode  string               `xml:"mode"`
-	Local HighAvailabilityInfo `xml:"local-info"`
-	Peer  HighAvailabilityInfo `xml:"peer-info"`
+	Mode               string               `xml:"mode"`
+	RunningSync        string               `xml:"running-sync"`
+	RunningSyncEnabled string               `xml:"running-sync-enabled"`
+	Local              HighAvailabilityInfo `xml:"local-info"`
+	Peer               HighAvailabilityInfo `xml:"peer-info"`
 }
 
 type HighAvailability struct {
